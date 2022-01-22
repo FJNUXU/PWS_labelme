@@ -1,4 +1,4 @@
-# Utilities
+# PWS_labelme
 Some useful tools
 ## 标注正常皮肤的规则
 #### 1. 靠近正常皮肤且颜色分布均匀的地方。
